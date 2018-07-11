@@ -1,0 +1,2 @@
+# Notenerfassung
+Notenerfassungsprogramm in C
